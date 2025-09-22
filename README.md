@@ -1,2 +1,2 @@
 # Encyclopedia
-Online encyclopedia
+Online Encyclopedia
